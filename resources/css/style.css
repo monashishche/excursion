@@ -1,9 +1,30 @@
 body{
     background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 h1{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 50px;
     color: white;
-    text-align: center;
+    margin: 40px auto;
+}
+h2{
+    font-size: 42px;
+    margin: 30px auto;
+}
+.link a {
+    color: aquamarine;
+    font-size: 16px;
+    margin: 20px auto;
+}
+.subtitle{
+    font-size: 21px;
+    color: gray;
+}
+.copyright{
+    color: gray;
+    text-align: right;
+}
+img, video{
+    margin: 20px 0;
 }
